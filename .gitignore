@@ -3,3 +3,5 @@ data/Books_rating.csv
 *.csv
 data/**
 .idea/
+!data/dataframe_copia_2.csv
+!data/dataframe_copia.csv
