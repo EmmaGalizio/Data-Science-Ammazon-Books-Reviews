@@ -3,5 +3,9 @@ data/Books_rating.csv
 *.csv
 data/**
 .idea/
+main.py
 !data/dataframe_copia_2.csv
 !data/dataframe_copia.csv
+!data/reviews_final.csv
+!data/reviews_final_ordinal.csv
+!data/reviews_final_one_hot.csv
